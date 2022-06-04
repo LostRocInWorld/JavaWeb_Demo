@@ -15,4 +15,9 @@ public class NewTest {
     public static void logout(String username){
         System.out.println("登出的功能");
     }
+
+    public static void login(String username,String pwd){
+        System.out.println("登录的功能");
+    }
+
 }
