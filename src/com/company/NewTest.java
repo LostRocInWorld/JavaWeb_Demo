@@ -12,4 +12,7 @@ public class NewTest {
     public static void main(String[] args) {
         System.out.println("这是用来测试git的");
     }
+    public static void logout(String username){
+        System.out.println("登出的功能");
+    }
 }
